@@ -14,6 +14,6 @@
 
 ✅ Project#6: Appserver and Database 💯 👨🏻‍💻
 
-#SOON MERN STACK tutorial - Exercise tracker 👨🏻‍💻 🧠
+✅ MERN STACK tutorial - Exercise tracker 💯 👨🏻‍💻 
 
-#SOON React app  👨🏻‍💻 🧠
+✅ React app 💯 👨🏻‍💻 
